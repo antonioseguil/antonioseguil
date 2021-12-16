@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi, my name is Antonio Seguil 💻
+
+<!-- https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white -->
 
 <!--
 **antonioseguil/antonioseguil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
